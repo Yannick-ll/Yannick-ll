@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yannick-ll
 - 👀 I’m interested in AI, Computer Vision, IOT, Big Data, Volley Ball, Chess
-- 🌱 I’m currently learning Big Data
-- 💞️ I’m looking to collaborate on interesting projects
+- 🌱 I’m currently learning Robotics
+- 💞️ I love challenging myself with interesting projects
 - 📫 How to reach me : yannick.lufimpu.luviya@gmail.com
 
 <!---
